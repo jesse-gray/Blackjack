@@ -1,0 +1,10 @@
+King:875
+Gilda:460
+Isabella:250
+Don:225
+Jacinda:200
+Korg:200
+Ray:200
+Jesse:150
+Carol:150
+Default:150
